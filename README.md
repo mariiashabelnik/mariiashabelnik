@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Mariia Shabelnik</h1>
 <h3 align="center">Frontend developer</h3>
-<ul align="center"><li>lslsl</li></ul>
+<ul align="center"><li>💪 I like to write code</li></ul>
 
 
 <h3 align="center">Languages and Tools:</h3>
