@@ -2,8 +2,8 @@
 
 
 <h1 align="center">Hi there 👋, I'm Mariia Shabelnik</h1>
-<h3 align="center">Frontend developer</h3>
-<ul align="center"><li>💪 I like to write code</li><li>🎉 I love to paint and dogs</li><li>🧠 I am constantly learning new things</li></ul>
+<h3 align="left">Frontend developer</h3>
+<ul align="left"><li>💪 I like to write code</li><li>🎉 I love to paint and dogs</li><li>🧠 I am constantly learning new things</li></ul>
 
 
 <h3 align="center">Languages and Tools:</h3>
