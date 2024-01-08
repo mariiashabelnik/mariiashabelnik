@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi there 👋, I'm Mariia Shabelnik</h1>
+<h1 align="center">Hi there 👋, I'm Maria Shabelnik</h1>
 <h3 align="left">Frontend developer</h3>
 <ul align="left"><li>💪 I like to write code and create design</li><li>🎉 I love to paint and dogs</li><li>🧠 I am constantly learning new things</li></ul>
 
